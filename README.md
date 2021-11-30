@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FanSusantio
-- 👀 I’m interested in ... Front End Development, Data Analytics and Data Science
+- 👀 I’m interested in ... Business Intelligence, Front End Development, Data Analytics and Data Science, Cloud Computing
 - 🌱 I’m currently learning ... HTML, CSS, Javascript, Python, SQL
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... https://www.linkedin.com/in/fan-susantio-62227919/
